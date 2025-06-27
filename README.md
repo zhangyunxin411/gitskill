@@ -10,6 +10,6 @@ this is a ***item***
 * first item  
 * second item  
 
-![这是一张图片](E:\aaa\pic.jpg "背景图")
+![这是一张图片](pic.jpg "背景图")
 
 dev add new line  

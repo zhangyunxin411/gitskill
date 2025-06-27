@@ -10,6 +10,8 @@ this is a ***item***
 * first item  
 * second item  
 
-![这是一张图片](pic.jpg "背景图")
+insert a pic  
+![这是一张图片](pic.jpg "背景图")  
+> 图片要放在仓库中，使用相对路径
 
 dev add new line  

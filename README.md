@@ -2,7 +2,7 @@
 git is a **strong** software  
 
 this is a 'code'  
-    printf("hello world");  
+    'printf("hello world");'  
 
 this is a ***item***  
 * first item  

@@ -8,6 +8,8 @@ git is a strong software
 
 this is a ***item***  
 * first item  
-* second item
+* second item  
+
+![这是一张图片](E:\aaa\pic.jpg "背景图")
 
 dev add new line  
